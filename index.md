@@ -1,5 +1,3 @@
-Connor Camire 
-CS 499 Capstone
 <link rel="stylesheet" href="style.css">
 <header class="page-header">
   <h1>Your Name</h1>
