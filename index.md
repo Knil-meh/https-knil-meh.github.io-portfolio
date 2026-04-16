@@ -1,8 +1,7 @@
-# https-knil-meh.github.io-portfolio
+Connor Camire 
+CS 499 Capstone
+
 <link rel="stylesheet" href="style.css">
 
-THIS IS A TEST
-\
-//
-https://github.com/Knil-meh/CS-499-Project/blob/main/CS320-Project2/src/main/java/ContactConsoleApp.java 
+
 
